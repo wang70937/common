@@ -11,7 +11,7 @@ apt install -y git lrzsz
 ##clone code
 mkdir /home/ubuntu
 cd /home/ubuntu
-git clone https://github.com/Tencent/tars.git
+git clone https://github.com/TarsCloud/tars.git
 
 cd /home/ubuntu/tars/build
 
